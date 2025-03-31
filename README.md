@@ -20,8 +20,8 @@ An interactive application for **extracting subtitles from video files** using `
 ## 🛠️ Installation
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/subtitle-extractor.git
-cd subtitle-extractor
+git clone https://github.com/mvulcu/whispercraft.git
+cd whispercraft
 ```
 2. Install dependencies:
 ```bash
